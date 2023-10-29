@@ -1,0 +1,7 @@
+name: "RegistrationLoginDemo"
+appmap_dir: "build/classes/java/appmap"
+packages:
+- path: "com.example.RegistrationLoginDemo"
+- path: "controller"
+- path: "entity"
+- path: "repository"

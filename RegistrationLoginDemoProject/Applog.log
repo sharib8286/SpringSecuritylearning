@@ -1,0 +1,24 @@
+com.example.RegistrationLoginDemo.Application-[INFO]- 2023-10-14 22:44:53,194-Starting Application using Java 11.0.13 on DESKTOP-289KOKK with PID 5068 (C:\Users\Afsha\Downloads\RegistrationLoginDemoProject\RegistrationLoginDemoProject\build\classes\java\main started by Afsha in C:\Users\Afsha\Downloads\RegistrationLoginDemoProject\RegistrationLoginDemoProject)-
+com.example.RegistrationLoginDemo.Application-[DEBUG]- 2023-10-14 22:44:53,199-Running with Spring Boot v2.7.2, Spring v5.3.22-
+com.example.RegistrationLoginDemo.Application-[INFO]- 2023-10-14 22:44:53,201-No active profile set, falling back to 1 default profile: "default"-
+org.springframework.data.repository.config.RepositoryConfigurationDelegate-[INFO]- 2023-10-14 22:44:55,284-Bootstrapping Spring Data JPA repositories in DEFAULT mode.-
+org.springframework.data.repository.config.RepositoryConfigurationDelegate-[INFO]- 2023-10-14 22:44:55,547-Finished Spring Data repository scanning in 237 ms. Found 1 JPA repository interfaces.-
+org.springframework.boot.web.embedded.tomcat.TomcatWebServer-[INFO]- 2023-10-14 22:44:58,647-Tomcat initialized with port(s): 8080 (http)-
+org.apache.catalina.core.StandardService-[INFO]- 2023-10-14 22:44:58,672-Starting service [Tomcat]-
+org.apache.catalina.core.StandardEngine-[INFO]- 2023-10-14 22:44:58,673-Starting Servlet engine: [Apache Tomcat/9.0.65]-
+org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]-[INFO]- 2023-10-14 22:44:59,075-Initializing Spring embedded WebApplicationContext-
+org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext-[INFO]- 2023-10-14 22:44:59,076-Root WebApplicationContext: initialization completed in 5629 ms-
+org.hibernate.jpa.internal.util.LogHelper-[INFO]- 2023-10-14 22:44:59,569-HHH000204: Processing PersistenceUnitInfo [name: default]-
+org.hibernate.Version-[INFO]- 2023-10-14 22:44:59,718-HHH000412: Hibernate ORM core version 5.6.10.Final-
+org.hibernate.annotations.common.Version-[INFO]- 2023-10-14 22:45:00,266-HCANN000001: Hibernate Commons Annotations {5.1.2.Final}-
+com.zaxxer.hikari.HikariDataSource-[INFO]- 2023-10-14 22:45:00,551-HikariPool-1 - Starting...-
+com.zaxxer.hikari.HikariDataSource-[INFO]- 2023-10-14 22:45:01,354-HikariPool-1 - Start completed.-
+org.hibernate.dialect.Dialect-[INFO]- 2023-10-14 22:45:01,418-HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect-
+org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator-[INFO]- 2023-10-14 22:45:03,542-HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]-
+org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean-[INFO]- 2023-10-14 22:45:03,574-Initialized JPA EntityManagerFactory for persistence unit 'default'-
+org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration-[WARN]- 2023-10-14 22:45:04,531-spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning-
+org.springframework.boot.web.embedded.tomcat.TomcatWebServer-[INFO]- 2023-10-14 22:45:08,308-Tomcat started on port(s): 8080 (http) with context path ''-
+com.example.RegistrationLoginDemo.Application-[INFO]- 2023-10-14 22:45:08,328-Started Application in 20.06 seconds (JVM running for 21.182)-
+org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]-[INFO]- 2023-10-14 22:45:31,475-Initializing Spring DispatcherServlet 'dispatcherServlet'-
+org.springframework.web.servlet.DispatcherServlet-[INFO]- 2023-10-14 22:45:31,477-Initializing Servlet 'dispatcherServlet'-
+org.springframework.web.servlet.DispatcherServlet-[INFO]- 2023-10-14 22:45:31,480-Completed initialization in 1 ms-

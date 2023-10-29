@@ -1,0 +1,13 @@
+<html xmlns:th="http://wwww.thymeleaf.org">
+<head>
+    <title> delete Page.</title>
+</head>
+<body>
+<form th:action ="@{/deleteRecordByName}"  th:object="${user}" method="post">
+
+    Enter the userName : <input type ="text" id ="userName" th:field ="*{userName}"><br><br>
+
+    <button type="submit"> delete Record</button>
+</form>
+</body>
+</html>
