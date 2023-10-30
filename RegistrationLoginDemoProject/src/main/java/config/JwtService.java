@@ -29,5 +29,6 @@ public class JwtService {
 
     private Key getSignKey() {
         byte[] KeyBytes = Decoders.BASE64.decode(SECRET_KEY);
+        return null;
     }
 }
